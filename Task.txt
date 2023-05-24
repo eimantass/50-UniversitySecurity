@@ -1,0 +1,7 @@
+Universiteto svetaine
+Sukurti projektą su skirtingomis rolėmis:
+Administratorius - mato viska, gali viską
+Destytojas - gali patekti į destytoju vietą
+Studentas - gali patekti į studentu vietą
+Sveciai gali matyti tik home puslapį. Sukurti kelis kontrolerius (Home, Student, Teacher)
+Kontroleriuose tureti po kelis endpointus Sutvarkyti saugumą.
